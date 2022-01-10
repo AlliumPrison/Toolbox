@@ -8,8 +8,11 @@ blockedItems:
 - comparator
 - rail
 - minecart
+- oak_boat
+- jungle_boat
 - spruce_boat
 - birch_boat
+- acacia_boat
 - dark_oak_boat
 - coal_ore
 - totem_of_undying
