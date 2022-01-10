@@ -1,0 +1,28 @@
+# This file shows all items that cannot be crafted.
+#
+blockedItems:
+- bucket
+- anvil
+- flint_and_steel
+- note_block
+- comparator
+- rail
+- minecart
+- spruce_boat
+- birch_boat
+- dark_oak_boat
+- coal_ore
+- totem_of_undying
+- tnt
+- water_bucket
+- potion
+- fermented_spider_eye
+- slime_block
+- painting
+- jukebox
+- hopper
+- observer
+- hopper_minecart
+- respawn_anchor
+- blast_furnace
+- barrel
